@@ -1,0 +1,28 @@
+CACHE MANIFEST
+# random: 3a5621389ccc8b11c9d3019d40684529
+
+CACHE:
+blob.js
+courier_prime_v2_latin_regular.woff
+goldhen_v1.1_fw755.bin
+hen_v2.1.3b.bin
+index.html
+jb_2021-04-29.js
+jb_2021-05-03.js
+jb_2021-05-21.js
+jb_2021-05-27.js
+jb_2021-06-03.js
+jb.js
+mira.js
+netcat.js
+payload.html
+webkit/int64.js
+webkit/ps4_combined.js
+webkit/ps4_hippie68.js
+webkit/ps4_regular.js
+webkit/ps4_sleirsgoevy.js
+webkit/utils.js
+
+NETWORK:
+*
+
